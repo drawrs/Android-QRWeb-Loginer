@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_1e312f616d754b8a0fc2b65067bf60cbfdf16710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/31604b6de37d70dba08a997f3ba509d522571ce2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_63d265f04c4917e9a2ee7a516f1d2025788f6f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5699dc01c51be2ecc7003698ccec692e426d63ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_ab2a921f4718c8442fff88d8ce0784d5c55e3a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7f9fbf62c5d7a3b120fac105477687437484acf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_4e39017382c555aed36e343b5e1ad20cff36134b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53587dc65914044761196cef32e55b4fd4c3e8bc">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd43b6e00ee62ef8a316ba949da4ae74cdf8dc4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d153a167c81aee89a6bada80bd2d4f5dc99ce4dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_b55f24464bdf289cfbaddc96d5acd62fd482a7fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/472eb95894460dacce8e76e63a99b334ef9dc6c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_3d682676ee2e3425c6d099f6ea4c31b30f5dea7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/08e849809510baf679666aef0a4f511e91c78793/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_b6190576638696b65e261e9b1b7cdee5fc8a70de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/core-3.2.1_7cbe42c14d7eae00612a94cab544849d25d04fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/92bb1dc2f269cba9a18673d8fb3a430f71553813/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_02a17bb7f2af880fb29f9e367b08b6f615433982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/QRLoginerSecond/app/libs/android-query-full.0.26.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/android-query-full.0.26.7_4995a791061b276efb7b43b89b6053c47408b812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d3b1086e765ba645d7ee219d97445f4235368e04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_a546e18bf347855f7e28106d8e093e6084febe60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/QRLoginerSecond/app/libs/android-query-full.0.26.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-query-full.0.26.7_4995a791061b276efb7b43b89b6053c47408b812/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3f0acd84726f2083751132830922ef4aa4e63d23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_150971a400f8dc0083602744bca431bb04bc891a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fcb6762e9f268b98a68ad6d6e4060ae220088f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cb3e7a24a00ea410c1c8d48d892175a9d326dcf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_14ddaef8ae38a3e7bc630c5e209173f9c48f7eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/248b9b717a3c1324430000157f231ef82bf71abf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/pre-dexed/debug/classes_a15efcb350d95968158a02fbad0db9e6f88bcaac.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/5699dc01c51be2ecc7003698ccec692e426d63ca/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/7f9fbf62c5d7a3b120fac105477687437484acf7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/472eb95894460dacce8e76e63a99b334ef9dc6c5/output/AndroidManifest.xml:9:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] /root/.android/build-cache/08e849809510baf679666aef0a4f511e91c78793/output/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.8.4] /root/.android/build-cache/cb3e7a24a00ea410c1c8d48d892175a9d326dcf5/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/3f0acd84726f2083751132830922ef4aa4e63d23/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/d3b1086e765ba645d7ee219d97445f4235368e04/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/248b9b717a3c1324430000157f231ef82bf71abf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/31604b6de37d70dba08a997f3ba509d522571ce2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/92bb1dc2f269cba9a18673d8fb3a430f71553813/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/d153a167c81aee89a6bada80bd2d4f5dc99ce4dc/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.root.qrloginersecond.MainActivity
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.root.qrloginersecond.LoginActivity
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:21:19-48
+activity#com.example.root.qrloginersecond.QRScanner
+ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml:22:19-44
+uses-sdk
+INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/5699dc01c51be2ecc7003698ccec692e426d63ca/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/7f9fbf62c5d7a3b120fac105477687437484acf7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/472eb95894460dacce8e76e63a99b334ef9dc6c5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] /root/.android/build-cache/08e849809510baf679666aef0a4f511e91c78793/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.8.4] /root/.android/build-cache/cb3e7a24a00ea410c1c8d48d892175a9d326dcf5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/3f0acd84726f2083751132830922ef4aa4e63d23/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/d3b1086e765ba645d7ee219d97445f4235368e04/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/248b9b717a3c1324430000157f231ef82bf71abf/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/31604b6de37d70dba08a997f3ba509d522571ce2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/92bb1dc2f269cba9a18673d8fb3a430f71553813/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/d153a167c81aee89a6bada80bd2d4f5dc99ce4dc/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/QRLoginerSecond/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/5699dc01c51be2ecc7003698ccec692e426d63ca/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/7f9fbf62c5d7a3b120fac105477687437484acf7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/3f0acd84726f2083751132830922ef4aa4e63d23/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/d3b1086e765ba645d7ee219d97445f4235368e04/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/248b9b717a3c1324430000157f231ef82bf71abf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/31604b6de37d70dba08a997f3ba509d522571ce2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/92bb1dc2f269cba9a18673d8fb3a430f71553813/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/d153a167c81aee89a6bada80bd2d4f5dc99ce4dc/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/AndroidManifest.xml:26:9-47

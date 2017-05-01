@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/root/AndroidStudioProjects/QRLoginerSecond/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/root/AndroidStudioProjects/QRLoginerSecond/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

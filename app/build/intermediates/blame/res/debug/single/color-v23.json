@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/38a7be194b5c04175225821f65b8167671412511/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/6391ace9d134898d5e7ec8a8cd9a115d9932cf49/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

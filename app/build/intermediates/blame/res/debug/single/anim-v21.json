@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/38a7be194b5c04175225821f65b8167671412511/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/38a7be194b5c04175225821f65b8167671412511/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

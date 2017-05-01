@@ -1,0 +1,7 @@
+#Mon May 01 20:18:07 WIB 2017
+base.0=/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fcb6762e9f268b98a68ad6d6e4060ae220088f1c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd43b6e00ee62ef8a316ba949da4ae74cdf8dc4e/classes.dex
+base.1=/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dd43b6e00ee62ef8a316ba949da4ae74cdf8dc4e
+file.0=/root/AndroidStudioProjects/QRLoginerSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fcb6762e9f268b98a68ad6d6e4060ae220088f1c/classes.dex
